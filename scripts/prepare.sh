@@ -15,8 +15,8 @@ cd openwrt
 
 # 添加第三方软件包
 ## openclash
-git clone https://github.com/vernesong/OpenClash.git --single-branch --depth 1 package/new/luci-openclash
-bash ../scripts/download-openclash-core.sh
+# git clone https://github.com/vernesong/OpenClash.git --single-branch --depth 1 package/new/luci-openclash
+# bash ../scripts/download-openclash-core.sh
 
 ## argon theme
 git clone https://github.com/jerrykuku/luci-theme-argon.git --single-branch --depth 1 package/new/luci-theme-argon
